@@ -1,0 +1,15 @@
+<center>
+<style>
+div{
+    background-color: red; 
+    height: 100px;
+    width:300px;
+    }
+
+</style>
+
+<div>
+    <h1 style="color:white;">error makes cleaver</h1>
+    <p style="color:blue">neat and clear learning</p>
+</div>
+</center>
